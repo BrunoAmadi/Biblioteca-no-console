@@ -1,0 +1,30 @@
+1,Dom Casmurro,Machado de Assis,Um dos grandes clássicos da literatura brasileira Dom Casmurro narra a história de Bentinho e Capitu com temas de ciúmes e dúvida sobre a fidelidade conjugal.,1899-01-01
+2,Orgulho e Preconceito,Jane Austen,A história de Elizabeth Bennet e Mr. Darcy que se apaixonam apesar das barreiras sociais e preconceitos da sociedade britânica do século XIX.,1813-01-28
+3,Cem Anos de Solidão,Gabriel García Márquez,Um épico que narra a história da família Buendía em Macondo explorando temas como amor solidão e magia.,1967-05-30
+4,O Grande Gatsby,F. Scott Fitzgerald,A história do misterioso Jay Gatsby e sua busca pelo amor e pelo sucesso na América dos anos 1920.,1925-04-10
+5,A Menina que Roubava Livros,Markus Zusak,A história de Liesel Meminger uma garota alemã que rouba livros durante a Segunda Guerra Mundial.,2005-01-01
+6,1984,George Orwell,Um clássico da ficção distópica que descreve um mundo totalitário onde a liberdade é suprimida.,1949-06-08
+7,Harry Potter e a Pedra Filosofal,J.K. Rowling,O primeiro livro da série Harry Potter onde o jovem bruxo descobre seu destino e a magia do mundo dos feiticeiros.,1997-06-26
+8,As Crônicas de Nárnia:C.S. Lewis,O Leão a Feiticeira e o Guarda-Roupa,A primeira obra das Crônicas de Nárnia onde crianças descobrem um mundo mágico através de um guarda-roupa.,1950-10-16
+9,A Metamorfose,Franz Kafka,A história de Gregor Samsa que acorda um dia transformado em um inseto explorando alienação e isolamento.,1915-10-15
+10,Anna Karenina,Lev Tolstói,A história de Anna Karenina uma aristocrata russa que vive um caso de amor proibido e enfrenta as consequências sociais.,1877-01-01
+11,Frankenstein,Mary Shelley,A história do cientista Victor Frankenstein e sua criação explorando questões éticas e morais.,1818-01-01
+12,O Hobbit,J.R.R. Tolkien,A jornada de Bilbo Bolseiro em busca do tesouro guardado por Smaug o dragão em um mundo de fantasia.,1937-09-21
+13,Memórias Póstumas de Brás Cubas,Machado de Assis,A história póstuma de Brás Cubas um defunto autor que narra suas memórias de forma irônica.,1881-12-15
+14,O Sol é para Todos,Harper Lee,A história de Scout Finch e seu pai Atticus um advogado que defende um homem negro acusado injustamente de estupro nos Estados Unidos segregados dos anos 1930.,1960-07-11
+15,O Senhor dos Anéis: A Sociedade do Anel,J.R.R. Tolkien,O primeiro livro da trilogia O Senhor dos Anéis que narra a jornada de Frodo e seus amigos para destruir o Um Anel.,1954-07-29
+16,Ensaio sobre a Cegueira,José Saramago,Em uma cidade onde todos ficam cegos a sociedade colapsa e as pessoas lutam pela sobrevivência.,1995-01-01
+17,Matar um Rouxinol,Harper Lee,Um livro que aborda temas de racismo e injustiça enquanto uma jovem defende seu pai em um tribunal nos Estados Unidos dos anos 1930.,1960-07-11
+18,As Aventuras de Sherlock Holmes,Arthur Conan Doyle,Uma coletânea de histórias de Sherlock Holmes o famoso detetive londrino.,1892-10-14
+19,Guerra e Paz,Lev Tolstói,Uma saga épica que narra a história de cinco famílias aristocráticas russas durante as Guerras Napoleônicas.,1869-01-01
+20,A Revolução dos Bichos,George Orwell,Uma alegoria política que descreve a revolta dos animais contra seus opressores humanos em uma fazenda.,1945-08-17
+21,Madame Bovary,Gustave Flaubert,A história de Emma Bovary uma mulher insatisfeita com sua vida e casamento na França do século XIX.,1857-01-01
+22,A Ilha do Tesouro,Robert Louis Stevenson,A aventura de Jim Hawkins em busca do tesouro do pirata Capitão Flint.,1883-01-01
+23,Dom Quixote,Miguel de Cervantes,A história do cavaleiro louco Dom Quixote e seu fiel escudeiro Sancho Pança em suas aventuras pela Espanha.,1605-01-01
+24,O Apanhador no Campo de Centeio,J.D. Salinger,A jornada de Holden Caulfield um adolescente problemático em Nova York.,1951-07-16
+25,Moby Dick,Herman Melville,A busca obscura do capitão Ahab pela baleia branca Moby Dick uma metáfora sobre obsessão.,1851-10-18
+26,O Retrato de Dorian Gray,Oscar Wilde,A história de Dorian Gray um homem cujo retrato envelhece enquanto ele permanece jovem explorando a decadência e o hedonismo.,1890-04-23
+27,Grande Sertão: Veredas,Guimarães Rosa,Um épico literário brasileiro que narra as aventuras do jagunço Riobaldo em um sertão mítico.,1956-01-01
+28,Os Miseráveis,Victor Hugo,A história de Jean Valjean um ex-prisioneiro que busca redenção na França do século XIX.,1862-01-01
+29,O Pequeno Príncipe,Antoine de Saint-Exupéry,A história de um pequeno príncipe que viaja entre planetas e faz observações sobre a vida e a humanidade.,1943-04-06
+30,Os Jogos da Fome,Suzanne Collins,Em um futuro distópico jovens são forçados a lutar até a morte em um reality show brutal.,2008-09-14
